@@ -6,6 +6,24 @@ Si Angular est d’apparence plus simple à découvrir (merci les tutos Google),
 
 ### Devoxx France 2023
 
-Ce talk a été présenté au [Devoxx France 2023](https://cfp.devoxx.fr/2023/talk/UBH-0193/6_Tips_pour_ameliorer_sa_Web_App_Angular).<br/>
+Ce talk a été présenté au [Devoxx France 2023](https://www.devoxx.fr/).<br/>
 Vous pouvez retrouver la présentation en version pdf (démo et vidéo sous forme de screen) [ici](https://github.com/camillepillot/angular-tips/blob/main/Angular%20TIPS%20version%20pdf.pdf).<br/>
 Vous pouvez retrouver la vidéo sur [Youtube](https://youtu.be/zPfZXLG_wcU).<br/>
+
+### Voxxed Day Luxembourg 2023
+
+Ce talk a été présenté au [Voxxed Day Luxembourg 2023](https://luxembourg.voxxeddays.com/fr/).<br/>
+Vous pouvez retrouver la présentation en version pdf (démo et vidéo sous forme de screen) [ici](https://github.com/camillepillot/angular-tips/blob/main/Angular%20TIPS%20version%20pdf.pdf).<br/>
+Vous pouvez retrouver la vidéo sur [Youtube](https://www.youtube.com/watch?v=NGRZWZcO2E0).<br/>
+
+### Volcamp 2023
+
+Ce talk a été présenté au [Volcamp 2023](https://www.volcamp.io/).<br/>
+Vous pouvez retrouver la présentation en version pdf (démo et vidéo sous forme de screen) [ici](https://github.com/camillepillot/angular-tips/blob/main/Angular%20TIPS%20version%20pdf.pdf).<br/>
+
+## Meet up 
+
+### Paris TypeScript 2024
+
+Ce talk a été présenté au [Paris TS](https://typescript.paris/).<br/>
+Vous pouvez retrouver la présentation en version pdf (démo et vidéo sous forme de screen) [ici](https://github.com/camillepillot/angular-tips/blob/main/Angular%20TIPS%20v2024.pdf).<br/>
